@@ -1,5 +1,5 @@
 ---
-title: "Long-Range Dependence in Low-Frequency Earthquake Catalogs"
+title: "Long-range dependence in low-frequency earthquake catalogs"
 collection: talks
 type: "Oral presentation"
 permalink: 
