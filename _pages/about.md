@@ -17,3 +17,21 @@ I am passionate about modeling of planet Earth and time series analysis and fore
 During my PhD studies, I worked on slow earthquakes, subtle seismic features discovered recently, which duration ranges from a few days to several years and which recurrence delay ranges from months to years. I am using time series analysis and advanced signal processing to analyze large datasets of low-frequency seismic events that I have collected and processed. I have in particular discovered that long range temporal dependence characteristics can be observed in the Olympic Peninsula, Northern California, and Mexico catalogs.
 
 From 2006 to 2015, I was a research scientist at [BRGM](https://www.brgm.fr/en) (French Geological Survey), France’s reference public institution for earth science applications in the management of surface and subsurface resources and risks. During the academic year 2015-2016, I was working with Jeroen Tromp and Frederik Simons in the [Geosciences](https://geosciences.princeton.edu) Department at [Princeton University](https://www.princeton.edu).
+
+## News
+
+- July 2022: I presented my work at siaM MPE.
+
+- July 2022: My research paper Detection of slow slip events using wavelet analysis of GNSS recordings, co-authored with Kenneth Creager and David Schmidt, was accepted in Bulletin of the Seismological Society of America.
+
+- June 2022: I presented my work on at SDSS.
+
+- May 20th 2022: I presented my work on "Long-range dependence in earthquake occurrence rates" at the SIAM PNW Biennal Meeting in Vancouver, WA, USA. 
+
+- April 2022: My research paper An eight-year-long low-frequency earthquake catalog for Southern Cascadia, co-authored with Kenneth Creager, was published in Journal of Geophysical Research: Solid Earth.
+
+- January 28th 2022: I defended my PhD thesis on "Slow earthquakes: Tremor, low-frequency earthquakes and slow slip events" in the Department of Earth and Space Sciences at University of Washington.
+
+- January 2022: My research paper Depth and thickness of tectonic tremor in the northeastern Olympic Peninsula, co-authored with Kenneth Creager, was published in Journal of Geophysical Research: Solid Earth.
+
+- December 2021: I graduated with a Master of Science from the Department of  Statistics at University of Washington.
