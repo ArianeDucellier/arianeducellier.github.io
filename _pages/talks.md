@@ -20,7 +20,7 @@ Poster, *Symposium on Data Science and Statistics*, Pittsburgh, Pennsylvania, US
 
 **Long-range dependence in low-frequency earthquake catalogs**  
 Oral presentation, *SIAM Pacific Northwest Biennal Meeting*, Vancouver, Washington, USA, May 20, 2022.  
-[Slides](/Ducellier_SIAM_PNW_2022.pdf) &nbsp;  
+[Slides](/files/Ducellier_SIAM_PNW_2022.pdf) &nbsp;  
 
 **Statistical analysis of low-frequency earthquake catalogs**  
 Oral presentation, *Seismological Society of America Annual Meeting*, Bellevue, Washington, USA, April 22, 2022.  
