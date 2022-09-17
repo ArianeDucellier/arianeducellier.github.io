@@ -10,10 +10,10 @@ redirect_from:
 <!-- Leave two spaces at the end -->
 
 **Long-range dependence in low-frequency earthquake catalogs**  
-Oral presentation, *SIAM Conference on Mathematics of Planet Earth*, Pittsburgh, Pennsylvania, USA, June 08, 2022.   
+Oral presentation, *SIAM Conference on Mathematics of Planet Earth*, Pittsburgh, Pennsylvania, USA, July 13th 2022.   
 
 **Long-range dependence in earthquake occurrence rates**  
-Poster, *Symposium on Data Science and Statistics*.  
+Poster, *Symposium on Data Science and Statistics*, Pittsburgh, Pennsylvania, USA, June 08, 2022.  
 
 **Long-range dependence in low-frequency earthquake catalogs**  
 Oral presentation, *SIAM Pacific Northwest Biennal Meeting*, Vancouver, Washington, USA, May 20, 2022.  
