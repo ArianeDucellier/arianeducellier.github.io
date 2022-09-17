@@ -20,13 +20,15 @@ From 2006 to 2015, I was a research scientist at [the French Geological Survey (
 
 ## News
 
-- July 13th 2022: I presented my work on "Long-range dependence in low-frequency earthquake catalogs" at SIAM Conference on Mathematics of Planet Earth ([slides](https://github.com/ArianeDucellier/arianeducellier.github.io/blob/master/files/Ducellier_SIAM_MPE_2022.pdf)).
+- August 2022: My research paper "Detection of slow slip events using wavelet analysis of GNSS recordings", co-authored with Kenneth Creager and David Schmidt, was published in Bulletin of the Seismological Society of America.
 
-- July 2022: My research paper "Detection of slow slip events using wavelet analysis of GNSS recordings", co-authored with Kenneth Creager and David Schmidt, was accepted in Bulletin of the Seismological Society of America.
+- July 13th 2022: I presented my work on "Long-range dependence in low-frequency earthquake catalogs" at SIAM Conference on Mathematics of Planet Earth ([slides](/files/Ducellier_SIAM_MPE_2022.pdf)).
 
-- June 8th 2022: I presented my work on "Long-range dependence in low-frequency earthquake catalogs" at the American Statistical Association Symposium on Data Science and Statistics in Pittsburgh, PA, USA ([abstract](https://github.com/ArianeDucellier/arianeducellier.github.io/blob/master/files/Ducellier_SDSS_2022_abstract.pdf) and [poster](https://github.com/ArianeDucellier/arianeducellier.github.io/blob/master/files/Ducellier_SDSS_2022_poster.pdf)).
+- June 8th 2022: I presented my work on "Long-range dependence in low-frequency earthquake catalogs" at the American Statistical Association Symposium on Data Science and Statistics in Pittsburgh, PA, USA ([abstract](/files/Ducellier_SDSS_2022_abstract.pdf) and [poster](/files/Ducellier_SDSS_2022_poster.pdf)).
 
-- May 20th 2022: I presented my work on "Long-range dependence in earthquake occurrence rates" at the SIAM Pacific Northwest Biennal Meeting in Vancouver, WA, USA ([slides](https://github.com/ArianeDucellier/arianeducellier.github.io/blob/master/files/Ducellier_SIAM_PNW_2022.pdf)). 
+- May 20th 2022: I presented my work on "Long-range dependence in earthquake occurrence rates" at the SIAM Pacific Northwest Biennal Meeting in Vancouver, WA, USA ([slides](/files/Ducellier_SIAM_PNW_2022.pdf)).
+
+- April 22nd 2022: I presented my work on "Statistical analysis of low-frequency earthquake catalogs" at the SSA Annual Meeting in Bellevue, WA, USA ([slides](/files/Ducellier_SSA_2022.pdf)).
 
 - April 2022: My research paper "An eight-year-long low-frequency earthquake catalog for Southern Cascadia", co-authored with Kenneth Creager, was published in Journal of Geophysical Research: Solid Earth.
 
