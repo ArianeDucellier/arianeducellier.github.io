@@ -9,7 +9,7 @@ main:
   - title: "Teaching"
     url: /teaching.html
     
-    - title: "Software"
+  - title: "Software"
     url: /software.html
         
 #  - title: "Blog Posts"
