@@ -1,26 +1,34 @@
 ---
-title: "Publications"
+title: "Software"
 author_profile: true
 redirect_from:
-  - /publications.html
+  - /software.html
 ---
 
 {% include base_path %}
 
 <!-- Leave two spaces at the end -->
 
-**Detection of slow slip events using wavelet analysis of GNSS recordings**  
-**Ariane Ducellier**, Kenneth C. Creager, David A. Schmidt  
-*Bulletin of the Seismological Society of America, 2022*.  
-[Pdf](/files/PhD_paper3.pdf) &nbsp;  
+Wavelet analysis: Python tools to compute Discrete Wavelet Transform and other wavelet transforms. This repository contains scripts to carry out wavelet analyses as explained in:
 
-**An 8-year-long low-frequency earthquake catalog for southern Cascadia**  
-**Ariane Ducellier**, Kenneth C. Creager  
-*Journal of Geophysical Research: Solid Earth, 2022*.  
-[Pdf](/files/PhD_paper2.pdf) &nbsp;  
+Donald Percival and Andrew Walden. Wavelet Methods for Time Series Analysis. Cambridge Series in Statistical and Probabilistic Mathematics
 
-**Depth and thickness of tectonic tremor in the northeastern Olympic Peninsula**  
-**Ariane Ducellier**, Kenneth C. Creager  
-*Journal of Geophysical Research: Solid Earth, 2022*.  
-[Pdf](/files/PhD_paper1.pdf) &nbsp;  
+It also contains notebooks to reproduce some of the figures from the book:
 
+    Chapter 4: Discrete Wavelet Transform
+
+    Chapter 5: Maximal Overlap Discrete Wavelet Transform
+
+    Chapter 6: Discrete Wavelet Packet Transform
+
+    Chapter 6: Maximal Overlap Discrete Wavelet Packet Transform
+
+    Chapter 6: Best basis algorithm
+
+Earthquake monitoring: Python tools to automatically analyze seismic data and update a catlog of low-frequency earthquakes.
+
+Visualization: Python tools to visualize a catalog of tectonic tremor with Python library altair.
+
+Class project: Visualization of Episodic Tremor and Slip events. Class project for CSE 512 course on Visualization with Rachel Atlas, Andrés Paz, and Thomas Schweizer.
+
+Class project: Visualization of an LFE catalog. Class project for CSE 512 course on Visualization. 
