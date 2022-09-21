@@ -1,26 +1,17 @@
 ---
-title: "Publications"
+title: "Teaching"
 author_profile: true
 redirect_from:
-  - /publications.html
+  - /teaching.html
 ---
 
 {% include base_path %}
 
 <!-- Leave two spaces at the end -->
 
-**Detection of slow slip events using wavelet analysis of GNSS recordings**  
-**Ariane Ducellier**, Kenneth C. Creager, David A. Schmidt  
-*Bulletin of the Seismological Society of America, 2022*.  
-[Pdf](/files/PhD_paper3.pdf) &nbsp;  
+September 2019: Visualization tutorial for [GeoHackWeek](https://geohackweek.github.io/) at University of Washington.  
 
-**An 8-year-long low-frequency earthquake catalog for southern Cascadia**  
-**Ariane Ducellier**, Kenneth C. Creager  
-*Journal of Geophysical Research: Solid Earth, 2022*.  
-[Pdf](/files/PhD_paper2.pdf) &nbsp;  
+February 2020: Wavelet [tutorial](https://github.com/ArianeDucellier/wmtsa/blob/master/notebooks/tutorial.ipynb) at the eScience Community Seminar at University of Washington.  
 
-**Depth and thickness of tectonic tremor in the northeastern Olympic Peninsula**  
-**Ariane Ducellier**, Kenneth C. Creager  
-*Journal of Geophysical Research: Solid Earth, 2022*.  
-[Pdf](/files/PhD_paper1.pdf) &nbsp;  
+Spring 2021: Teaching Assistant for Prof. Marine Denolle's course [Data Science for Earth and Planetary Systems](https://github.com/UW-ESS-DS/ESS490-590-Spr21)  at the Department of Earth and Space Sciences from University of Washington.  
 
