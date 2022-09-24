@@ -21,14 +21,14 @@ It also contains notebooks to reproduce some of the figures from the book:
 
 - [Chapter 6: Discrete Wavelet Packet Transform](https://mybinder.org/v2/gh/ArianeDucellier/wmtsa/master?filepath=notebooks%2Fchapter6a.ipynb)
 
-- Chapter 6: Maximal Overlap Discrete Wavelet Packet Transform
+- [Chapter 6: Maximal Overlap Discrete Wavelet Packet Transform](https://mybinder.org/v2/gh/ArianeDucellier/wmtsa/master?filepath=notebooks%2Fchapter6b.ipynb)
 
-- Chapter 6: Best basis algorithm
+- [Chapter 6: Best basis algorithm](https://mybinder.org/v2/gh/ArianeDucellier/wmtsa/master?filepath=notebooks%2Fchapter6c.ipynb)
 
-Earthquake monitoring: Python tools to automatically analyze seismic data and update a catlog of low-frequency earthquakes.
+[Earthquake monitoring](https://github.com/seismocodes/lfelib): Python tools to automatically analyze seismic data and update a catlog of low-frequency earthquakes.  
 
-Visualization: Python tools to visualize a catalog of tectonic tremor with Python library altair.
+[Visualization](https://github.com/ArianeDucellier/visualization): Python tools to visualize a catalog of tectonic tremor with Python library altair.  
 
-Class project: Visualization of Episodic Tremor and Slip events. Class project for CSE 512 course on Visualization with Rachel Atlas, Andrés Paz, and Thomas Schweizer.
+[Class project](https://observablehq.com/@thomsch/a3-earthquakes): Visualization of Episodic Tremor and Slip events. Class project for CSE 512 course on Visualization with Rachel Atlas, Andrés Paz, and Thomas Schweizer.  
 
-Class project: Visualization of an LFE catalog. Class project for CSE 512 course on Visualization. 
+[Class project](https://github.com/cse512-21s/FP-earthquake_catalog/blob/master/README.md): Visualization of an LFE catalog. Class project for CSE 512 course on Visualization.  
