@@ -22,5 +22,5 @@ redirect_from:
 **Depth and thickness of tectonic tremor in the northeastern Olympic Peninsula**  
 **Ariane Ducellier**, Kenneth C. Creager  
 *Journal of Geophysical Research: Solid Earth, 2022*.  
-[arXiv](/files/PhD_paper1.pdf](https://arxiv.org/abs/2212.14573) &nbsp;  
+[arXiv](https://arxiv.org/abs/2212.14573) &nbsp;  
 
