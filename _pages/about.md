@@ -10,7 +10,7 @@ redirect_from:
 
 I am interested in statistical forecasting, and more broadly data science using complex data across space and time. I am currently working on on forecasting housing market indicators at [Zillow](https://www.zillowgroup.com). 
 
-Previously, I worked on low-frequency seismic data and numerical inversion of earthquake models at [University of Washington](https://www.washington.edu) and the [the French Geological Survey (BRGM)](https://www.brgm.fr/en).
+Previously, I worked on low-frequency seismic data and numerical inversion of earthquake models at [University of Washington](https://www.washington.edu) and the [French Geological Survey (BRGM)](https://www.brgm.fr/en).
 
 ## News
 
