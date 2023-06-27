@@ -24,6 +24,6 @@ redirect_from:
 *Journal of Geophysical Research: Solid Earth, 2022*.  
 [arXiv](https://arxiv.org/abs/2212.14573) &nbsp;  
 
-## Previous publications
+# Previous publications
 
 [Google Scholar](https://scholar.google.com/citations?user=FxbEB84AAAAJ&hl=fr) &nbsp;
