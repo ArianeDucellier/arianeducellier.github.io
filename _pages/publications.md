@@ -9,6 +9,8 @@ redirect_from:
 
 <!-- Leave two spaces at the end -->
 
+# Recent publications
+
 **Detection of slow slip events using wavelet analysis of GNSS recordings**  
 **Ariane Ducellier**, Kenneth C. Creager, David A. Schmidt  
 *Bulletin of the Seismological Society of America, 2022*.  
@@ -24,3 +26,6 @@ redirect_from:
 *Journal of Geophysical Research: Solid Earth, 2022*.  
 [arXiv](https://arxiv.org/abs/2212.14573) &nbsp;  
 
+# Previous publications
+
+[Google Scholar](https://scholar.google.com/citations?user=FxbEB84AAAAJ&hl=fr) &nbsp;
