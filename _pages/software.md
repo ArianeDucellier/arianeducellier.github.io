@@ -29,6 +29,8 @@ It also contains notebooks to reproduce some of the figures from the book:
 
 [Visualization](https://github.com/ArianeDucellier/visualization): Python tools to visualize a catalog of tectonic tremor with Python library altair.  
 
+<!---
 [Class project](https://observablehq.com/@thomsch/a3-earthquakes): Visualization of Episodic Tremor and Slip events. Class project for CSE 512 course on Visualization with Rachel Atlas, Andrés Paz, and Thomas Schweizer.  
+-->
 
 [Class project](https://github.com/cse512-21s/FP-earthquake_catalog/blob/master/README.md): Visualization of an LFE catalog. Class project for CSE 512 course on Visualization.  
