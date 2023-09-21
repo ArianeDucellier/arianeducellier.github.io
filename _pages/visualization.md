@@ -11,4 +11,4 @@ redirect_from:
 
 Real estate market data.
 
-Planet Earth seismic data. Python tools to visualize a catalog of tectonic tremor using the Python library altair.
+[Planet Earth seismic data](https://github.com/ArianeDucellier/visu_eq_catalog). Python tools to visualize a catalog of tectonic tremor using the Python library altair.
