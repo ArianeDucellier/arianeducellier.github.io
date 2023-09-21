@@ -16,6 +16,8 @@ Before that, I worked on low-frequency seismic data and numerical inversion of e
 
 ## News
 
+- July 2023: I have participated in the [Causal Inference with Observational Data](https://si.biostat.washington.edu/institutes/siscer/CR2312) program of the [Summer Institute in Statistics for Clinical & Epidemiological Research (SISCER)](https://si.biostat.washington.edu/institutes/siscer).
+
 - August 2022: My research paper "Detection of slow slip events using wavelet analysis of GNSS recordings", co-authored with Kenneth Creager and David Schmidt, was published in Bulletin of the Seismological Society of America.
 
 - July 13th 2022: I presented my work on "Long-range dependence in low-frequency earthquake catalogs" at SIAM Conference on Mathematics of Planet Earth ([slides](/files/Ducellier_SIAM_MPE_2022.pdf)).
