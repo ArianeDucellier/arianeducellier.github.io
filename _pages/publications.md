@@ -27,3 +27,13 @@ redirect_from:
 # Previous publications
 
 [Google Scholar](https://scholar.google.com/citations?user=FxbEB84AAAAJ&hl=fr) &nbsp;
+
+# PhD thesis
+
+[PhD thesis](https://drive.google.com/file/d/1dJ98qp2V8UjrdPpjGNHFyZv8xMhogrF4/view?usp=sharing) &nbsp;
+
+# Master thesis
+
+[Master thesis](https://drive.google.com/file/d/1CSpO0r0R6jqbfhfoW0mcL-D3PxvgO2XU/view?usp=sharing) &nbsp;
+
+
