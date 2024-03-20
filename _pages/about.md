@@ -8,13 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I am interested in statistical forecasting, and more broadly data science using complex data across space and time.
+I am interested in statistical analysis and time series forecasting, and more broadly data science using complex data across space and time.
+
+Currently, I am working on developing mathematical methods and computational codes to adjust data sample weights of contingency tables to match desired marginal totals at the [Institute for Health Metrics and Evaluation (IHME)](https://www.healthdata.org/)
 
 Previously, I was working on forecasting housing market indicators at [Zillow](https://www.zillowgroup.com). 
 
 Before that, I worked on low-frequency seismic data and numerical inversion of earthquake models at [University of Washington](https://www.washington.edu) and the [French Geological Survey (BRGM)](https://www.brgm.fr/en).
 
 ## News
+
+- Fall 2023: I am teaching a course on [Data Visualization with R](https://github.com/ArianeDucellier/data_visualization_R) in the Department of Statistics at University of Washington.
 
 - July 2023: I have participated in the [Causal Inference with Observational Data](https://si.biostat.washington.edu/institutes/siscer/CR2312) program of the [Summer Institute in Statistics for Clinical & Epidemiological Research (SISCER)](https://si.biostat.washington.edu/institutes/siscer).
 
@@ -34,4 +38,4 @@ Before that, I worked on low-frequency seismic data and numerical inversion of e
 
 - January 2022: My research paper "Depth and thickness of tectonic tremor in the northeastern Olympic Peninsula", co-authored with Kenneth Creager, was published in Journal of Geophysical Research: Solid Earth.
 
-- December 2021: I graduated with a Master of Science from the Department of  Statistics at University of Washington.
+- December 2021: I graduated with a Master of Science from the Department of Statistics at University of Washington.
