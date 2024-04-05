@@ -10,7 +10,7 @@ redirect_from:
 
 I am interested in statistical analysis and time series forecasting, and more broadly data science using complex data across space and time.
 
-Currently, I am developing mathematical and statistical methods and coded for population health statistical surveys at the [Institute for Health Metrics and Evaluation (IHME)](https://www.healthdata.org/).
+Currently, I am developing mathematical and statistical methods and codes for population health statistical surveys at the [Institute for Health Metrics and Evaluation (IHME)](https://www.healthdata.org/).
 
 Previously, I was working on forecasting housing market indicators at [Zillow](https://www.zillowgroup.com). 
 
