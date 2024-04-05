@@ -10,7 +10,7 @@ redirect_from:
 
 I am interested in statistical analysis and time series forecasting, and more broadly data science using complex data across space and time.
 
-Currently, I am working on developing mathematical methods and computational codes to adjust data sample weights of contingency tables to match desired marginal totals at the [Institute for Health Metrics and Evaluation (IHME)](https://www.healthdata.org/)
+Currently, I am developing mathematical and statistical methods and coded for population health statistical surveys at the [Institute for Health Metrics and Evaluation (IHME)](https://www.healthdata.org/).
 
 Previously, I was working on forecasting housing market indicators at [Zillow](https://www.zillowgroup.com). 
 
@@ -18,7 +18,9 @@ Before that, I worked on low-frequency seismic data and numerical inversion of e
 
 ## News
 
-- Fall 2023: I am teaching a course on [Data Visualization with R](https://github.com/ArianeDucellier/data_visualization_R) in the Department of Statistics at University of Washington.
+- March 2024. I was awarded a [University of Washington Data Science Postdoctoral Fellowship](https://escience.washington.edu/people/postdoctoral-fellows/) from the [eScience Institute](https://escience.washington.edu/).
+
+- Fall 2023: I have taught a course on [Data Visualization with R](https://github.com/ArianeDucellier/data_visualization_R) in the Department of Statistics at University of Washington.
 
 - July 2023: I have participated in the [Causal Inference with Observational Data](https://si.biostat.washington.edu/institutes/siscer/CR2312) program of the [Summer Institute in Statistics for Clinical & Epidemiological Research (SISCER)](https://si.biostat.washington.edu/institutes/siscer).
 
