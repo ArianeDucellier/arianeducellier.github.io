@@ -18,6 +18,10 @@ Before that, I worked on low-frequency seismic data and numerical inversion of e
 
 ## News
 
+- August 2024: I will [present](https://ww3.aievolution.com/JSMAnnual2024/index.cfm?do=ev.viewEv&ev=2963) my work on the [uncertainty quantification of survey calibration](https://arxiv.org/abs/2407.20520) at the [Joint Statistical Meetings (JSM)](https://ww2.amstat.org/meetings/jsm/2024/) in Portland, Oregon, USA.
+
+- May 2024: I received a travel award from the [American Statistical Association](https://www.amstat.org/) to attend the 2024 Joint Statistical Meetings (JSM) in Portland, Oregon, USA.
+
 - March 2024. I was awarded a [University of Washington Data Science Postdoctoral Fellowship](https://escience.washington.edu/people/postdoctoral-fellows/) from the [eScience Institute](https://escience.washington.edu/).
 
 - Fall 2023: I have taught a course on [Data Visualization with R](https://github.com/ArianeDucellier/data_visualization_R) in the Department of Statistics at University of Washington.
