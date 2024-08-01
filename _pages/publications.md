@@ -24,6 +24,13 @@ redirect_from:
 *Journal of Geophysical Research: Solid Earth, 2022*.  
 [arXiv](https://arxiv.org/abs/2212.14573) &nbsp;  
 
+# Preprints
+
+**Uncertainty quantification under noisy constraints, with applications to raking**
+**Ariane Ducellier**, Alexander Hsu, Parkes Kendrick, Bill Gustafson, Laura Dwyer-Lindgren, Christopher Murray, Peng Zheng, Aleksandr Aravkin 
+*arXiv, 2024*.
+[arXiv](https://arxiv.org/abs/2407.20520) &nbsp;
+
 # Previous publications
 
 [Google Scholar](https://scholar.google.com/citations?user=FxbEB84AAAAJ&hl=fr) &nbsp;
