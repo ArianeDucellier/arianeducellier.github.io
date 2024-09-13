@@ -13,7 +13,7 @@ redirect_from:
 
 **Uncertainty quantification under noisy constraints, with applications to raking**  
 **Ariane Ducellier**, Alexander Hsu, Parkes Kendrick, Bill Gustafson, Laura Dwyer-Lindgren, Christopher Murray, Peng Zheng, Aleksandr Aravkin  
-*arXiv, 2024*.  
+*arXiv, 2024. Presented at JSM 2024*.  
 [arXiv](https://arxiv.org/abs/2407.20520) &nbsp;  
 
 # Recent publications
