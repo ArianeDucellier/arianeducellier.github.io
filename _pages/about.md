@@ -18,7 +18,9 @@ Before that, I worked on low-frequency seismic data and numerical inversion of e
 
 ## News
 
-- August 2024: I will [present](https://ww3.aievolution.com/JSMAnnual2024/index.cfm?do=ev.viewEv&ev=2963) my work on the [uncertainty quantification of survey calibration](https://arxiv.org/abs/2407.20520) at the [Joint Statistical Meetings (JSM)](https://ww2.amstat.org/meetings/jsm/2024/) in Portland, Oregon, USA.
+- Fall 2024: I am teaching a course on Data Visualization with R in the Department of Statistics at University of Washington.
+
+- August 2024: I presented my work on the [uncertainty quantification of survey calibration](https://arxiv.org/abs/2407.20520) at the [Joint Statistical Meetings (JSM)](https://ww2.amstat.org/meetings/jsm/2024/) in Portland, Oregon, USA.
 
 - May 2024: I received a travel award from the [American Statistical Association](https://www.amstat.org/) to attend the 2024 Joint Statistical Meetings (JSM) in Portland, Oregon, USA.
 
