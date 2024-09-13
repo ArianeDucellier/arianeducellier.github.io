@@ -9,6 +9,10 @@ redirect_from:
 
 <!-- Leave two spaces at the end -->
 
+**Domain-specific raking, with application to mortality modeling**  
+Oral presentation, *Joint Statistical Meetings*, Portland, Oregon, US, August 8th 2024.  
+[Slides](/files/JSM_2024_ADucellier.pdf) &nbsp;  
+
 **Long-range dependence in low-frequency earthquake catalogs**  
 Oral presentation, *SIAM Conference on Mathematics of Planet Earth*, Pittsburgh, Pennsylvania, USA, July 13th 2022.   
 [Slides](/files/Ducellier_SIAM_MPE_2022.pdf) &nbsp;  
