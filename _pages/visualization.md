@@ -1,5 +1,5 @@
 ---
-title: "Teaching samples"
+title: "Visualization"
 author_profile: true
 redirect_from:
   - /visualization.html
@@ -9,14 +9,6 @@ redirect_from:
 
 <!-- Leave two spaces at the end -->
 
-# STAT 451 - Visualizing Data
+Real estate market data.
 
-This is an example of a tutorial to explain to the students how to use the R library ggplot2 for data visualization:  
-[RMarkdown file](/files/tutorial_ggplot2_part3.Rmd) &nbsp;  
-[pdf file](files/tutorial_ggplot2_part3.pdf) &nbsp;  
-
-# ESS 490/590 - Data Science for Earth and Planetary Systems
-
-This is an example of a tutorial to explain to the student how to use PyTorch and automatic differentation to solve geophysical inverse problems:  
-[Jupyter notebbok](/files/inversion_withAD.ipynb) &nbsp;  
-[pdf file](/files/inversion_withAD.pdf) &nbsp;  
+[Planet Earth seismic data](https://github.com/ArianeDucellier/visu_eq_catalog). Python tools to visualize a catalog of tectonic tremor using the Python library altair.
