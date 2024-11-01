@@ -18,6 +18,8 @@ Before that, I worked on low-frequency seismic data and numerical inversion of e
 
 ## News
 
+- November 2024: The version 0.1.0 of the new raking package is now available on [PyPI](https://pypi.org/project/raking/).
+
 - Fall 2024: I am teaching a course on Data Visualization with R in the Department of Statistics at University of Washington.
 
 - August 2024: I presented my work on the [uncertainty quantification of survey calibration](https://arxiv.org/abs/2407.20520) at the [Joint Statistical Meetings (JSM)](https://ww2.amstat.org/meetings/jsm/2024/) in Portland, Oregon, USA.
