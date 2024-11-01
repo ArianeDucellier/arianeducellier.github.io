@@ -9,7 +9,7 @@ redirect_from:
 
 <!-- Leave two spaces at the end -->
 
-[Raking](https://github.com/ihmeuw-msca/raking): Python package to adjust the cases in a contingency table to match the known marginal totals, with uncertainty quantification.  
+[Raking](https://github.com/ihmeuw-msca/raking): Python package to adjust the cases in a contingency table to match the known marginal totals, with uncertainty quantification. Also available on [PyPI)[https://pypi.org/project/raking/]  
 
 [Wavelet analysis](https://github.com/ArianeDucellier/wmtsa): Python tools to compute Discrete Wavelet Transform and other wavelet transforms. This repository contains scripts to carry out wavelet analyses as explained in:  
 
