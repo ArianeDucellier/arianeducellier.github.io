@@ -17,7 +17,7 @@ This is an example of a tutorial to explain to the students how to use the R lib
 
 # ESS 490/590 - Data Science for Earth and Planetary Systems
 
-This is an example of a tutorial to explain to the student how to use PyTorch and automatic differentation to solve geophysical inverse problems:  
+This is an example of a tutorial to explain to the students how to use PyTorch and automatic differentation to solve geophysical inverse problems:  
 [Jupyter notebbok](https://drive.google.com/file/d/1UGtQHaYlwan3Rc6bN_Uu0Md-XaJjcvqZ/view?usp=sharing) &nbsp;  
 [pdf file](https://drive.google.com/file/d/1ZFPFtkt1DyRBCglSzRp-AhRQXopRkZMp/view?usp=sharing) &nbsp;  
 
