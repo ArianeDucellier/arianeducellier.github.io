@@ -18,9 +18,17 @@ Before that, I worked on low-frequency seismic data and numerical inversion of e
 
 ## News
 
+- Fall 2025: I am teaching a course on [Data Visualization with R](https://github.com/ArianeDucellier/data_visualization_R) in the Department of Statistics at University of Washington.
+
+- August 2025: The version 0.2.0 of the raking package is now available on [PyPI](https://pypi.org/project/raking/).
+
+- July 2025: I presented my work on raking methods and applications to health metrics at the [International Conference on Continuous Optimization (ICCOPT)](https://sites.google.com/view/iccopt2025/home) in Los Angeles, California, USA, and at the [SIAM Annual Meeting](https://www.siam.org/conferences-events/past-event-archive/an25/) in Montreal, Quebec, Canada.
+
+- December 2025: I presented my work on raking with inequality constraints at the [IMS International Conference on Statistics and Data Science (ICSDS)](https://sites.google.com/view/ims-icsds2024/) in Nice, France.
+
 - November 2024: The version 0.1.0 of the new raking package is now available on [PyPI](https://pypi.org/project/raking/).
 
-- Fall 2024: I am teaching a course on Data Visualization with R in the Department of Statistics at University of Washington.
+- Fall 2024: I am teaching a course on [Data Visualization with R](https://github.com/ArianeDucellier/data_visualization_R) in the Department of Statistics at University of Washington.
 
 - August 2024: I presented my work on the [uncertainty quantification of survey calibration](https://arxiv.org/abs/2407.20520) at the [Joint Statistical Meetings (JSM)](https://ww2.amstat.org/meetings/jsm/2024/) in Portland, Oregon, USA.
 
