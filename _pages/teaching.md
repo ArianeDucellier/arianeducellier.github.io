@@ -9,6 +9,8 @@ redirect_from:
 
 <!-- Leave two spaces at the end -->
 
+Autumn 2025: Data Visualization course at University of Washington.
+
 Autumn 2024: Data Visualization course at University of Washington.  
 
 Autumn 2023: Data Visualization course at University of Washington.  
