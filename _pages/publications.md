@@ -9,6 +9,11 @@ redirect_from:
 
 <!-- Leave two spaces at the end -->
 
+# In preparation
+
+**Raking under prior ordinal constraints**  
+Ariane Ducellier, Aleksandr Aravkin  
+
 # Preprints
 
 **Uncertainty quantification under noisy constraints, with applications to raking**  
