@@ -9,16 +9,16 @@ redirect_from:
 
 <!-- Leave two spaces at the end -->
 
-**Raking methods and applications to health metrics**
-Oral presentation, *SIAM Annual Meeting*, Montreal, Quebec, Canada, August 1st 2025.
+**Raking methods and applications to health metrics**  
+Oral presentation, *SIAM Annual Meeting*, Montreal, Quebec, Canada, August 1st 2025.  
 [Slides](/files/SIAM_2025_ADucellier.pdf) &nbsp;  
 
-**Fast optimization approaches for raking**
-Oral presentation, *International Conference on Continuous Optimization*, Los Angeles, California, USA, July 21st 2025.
+**Fast optimization approaches for raking**  
+Oral presentation, *International Conference on Continuous Optimization*, Los Angeles, California, USA, July 21st 2025.  
 [Slides](/files/ICCOPT_2025_ADucellier.pdf) &nbsp;  
 
-**Raking with inequality constraints**
-Oral presentation, *IMS International Conference on Statistics and Data Science*, Nice, France, December 17th 2024.
+**Raking with inequality constraints**  
+Oral presentation, *IMS International Conference on Statistics and Data Science*, Nice, France, December 17th 2024.  
 [Slides](/files/ICSDS_2024_ADucellier.pdf) &nbsp;  
 
 **Domain-specific raking, with application to mortality modeling**  
