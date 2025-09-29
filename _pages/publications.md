@@ -16,7 +16,7 @@ Ariane Ducellier, Aleksandr Aravkin
 
 # Preprints
 
-**Uncertainty quantification under noisy constraints, with applications to raking**  
+**Raking mortality rates across cause, population group and geography with variance estimation**  
 **Ariane Ducellier**, Alexander Hsu, Parkes Kendrick, Bill Gustafson, Laura Dwyer-Lindgren, Christopher Murray, Peng Zheng, Aleksandr Aravkin  
 *arXiv, 2024*, presented at JSM 2024.  
 [arXiv](https://arxiv.org/abs/2407.20520) &nbsp;  
