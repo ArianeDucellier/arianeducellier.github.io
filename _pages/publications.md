@@ -23,6 +23,11 @@ Ariane Ducellier, Aleksandr Aravkin
 
 # Recent publications
 
+**Leveraging socioeconomic development for maternal health, breast cancer, and gynaecological cancers across 204 locations: a stochastic frontier analysis from the Global Burden of Disease Study 2023**  
+Gabriela F. Gil, Aleksandr Aravkin, Erin DeGraw, **Ariane Ducellier**, Mariam Khalil, Erin C. Mullany, Erin M. O'Connell, Aisha Twalibu, Emmanuela Gakidou, Luisa S. Flor  
+*The Lancet Obstetrics, Gynaecology, & Women's Health, 2025*.  
+[link](https://www.sciencedirect.com/science/article/abs/pii/S3050503825000317) &nbsp;  
+
 **Detection of slow slip events using wavelet analysis of GNSS recordings**  
 **Ariane Ducellier**, Kenneth C. Creager, David A. Schmidt  
 *Bulletin of the Seismological Society of America, 2022*.  
