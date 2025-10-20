@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+***For students enrolled in STAT 451, as Canvas is still down today, please see the [Google Drive folder](https://drive.google.com/drive/folders/1ElrGCZp4vbZRT-98xfwtGTkbdZaNCIK-?usp=drive_link) for the course material for this week and the [Zoom link](https://washington.zoom.us/j/97864432674) for Tues Oct. 21st class.***  
+
 I am interested in statistical analysis and time series forecasting, and more broadly data science using complex data across space and time.
 
 Currently, I am developing mathematical and statistical methods and codes for population health statistical surveys at the [Institute for Health Metrics and Evaluation (IHME)](https://www.healthdata.org/).
