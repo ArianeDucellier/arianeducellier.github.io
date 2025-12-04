@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-***For students enrolled in STAT 451, as Canvas is still down today, please see the [Google Drive folder](https://drive.google.com/drive/folders/1ElrGCZp4vbZRT-98xfwtGTkbdZaNCIK-?usp=drive_link) for the course material for this week and the [Zoom link](https://washington.zoom.us/j/97864432674) for Tues Oct. 21st class.***  
-
 I am interested in statistical analysis and time series forecasting, and more broadly data science using complex data across space and time.
 
 Currently, I am developing mathematical and statistical methods and codes for population health statistical surveys at the [Institute for Health Metrics and Evaluation (IHME)](https://www.healthdata.org/).
@@ -19,6 +17,8 @@ Previously, I was working on forecasting housing market indicators at [Zillow](h
 Before that, I worked on low-frequency seismic data and numerical inversion of earthquake models at [University of Washington](https://www.washington.edu) and the [French Geological Survey (BRGM)](https://www.brgm.fr/en).
 
 ## News
+
+- October 2025: I am a co-author of a [Global Burden of Disease](https://www.healthdata.org/research-analysis/gbd) study [paper](https://www.sciencedirect.com/science/article/pii/S3050503825000317) published in the The Lancet Obstetrics, Gynaecology, and Women's Health.
 
 - Fall 2025: I am teaching a course on [Data Visualization with R](https://github.com/ArianeDucellier/data_visualization_R) in the Department of Statistics at University of Washington.
 
