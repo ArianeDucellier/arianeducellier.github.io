@@ -20,7 +20,7 @@ Before that, I worked on low-frequency seismic data and numerical inversion of e
 
 - October 2025: I am a co-author of a [Global Burden of Disease](https://www.healthdata.org/research-analysis/gbd) study [paper](https://www.sciencedirect.com/science/article/pii/S3050503825000317) published in the The Lancet Obstetrics, Gynaecology, and Women's Health.
 
-- Fall 2025: I am teaching a course on [Data Visualization with R](https://github.com/ArianeDucellier/data_visualization_R) in the Department of Statistics at University of Washington.
+- Fall 2025: I am teaching the course [Visualizing Data](https://github.com/ArianeDucellier/data_visualization_R) in the Department of Statistics at University of Washington.
 
 - August 2025: The version 0.2.0 of the raking package is now available on [PyPI](https://pypi.org/project/raking/).
 
@@ -30,7 +30,7 @@ Before that, I worked on low-frequency seismic data and numerical inversion of e
 
 - November 2024: The version 0.1.0 of the new raking package is now available on [PyPI](https://pypi.org/project/raking/).
 
-- Fall 2024: I am teaching a course on [Data Visualization with R](https://github.com/ArianeDucellier/data_visualization_R) in the Department of Statistics at University of Washington.
+- Fall 2024: I am teaching the course [Visualizing Data](https://github.com/ArianeDucellier/data_visualization_R) in the Department of Statistics at University of Washington.
 
 - August 2024: I presented my work on the [uncertainty quantification of survey calibration](https://arxiv.org/abs/2407.20520) at the [Joint Statistical Meetings (JSM)](https://ww2.amstat.org/meetings/jsm/2024/) in Portland, Oregon, USA.
 
@@ -38,7 +38,7 @@ Before that, I worked on low-frequency seismic data and numerical inversion of e
 
 - March 2024. I was awarded a [University of Washington Data Science Postdoctoral Fellowship](https://escience.washington.edu/people/postdoctoral-fellows/) from the [eScience Institute](https://escience.washington.edu/).
 
-- Fall 2023: I have taught a course on [Data Visualization with R](https://github.com/ArianeDucellier/data_visualization_R) in the Department of Statistics at University of Washington.
+- Fall 2023: I an teaching the course [Visualizing Data](https://github.com/ArianeDucellier/data_visualization_R) in the Department of Statistics at University of Washington.
 
 - July 2023: I have participated in the [Causal Inference with Observational Data](https://si.biostat.washington.edu/institutes/siscer/CR2312) program of the [Summer Institute in Statistics for Clinical & Epidemiological Research (SISCER)](https://si.biostat.washington.edu/institutes/siscer).
 
