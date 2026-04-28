@@ -14,6 +14,9 @@ redirect_from:
 **Raking under prior ordinal constraints**  
 Ariane Ducellier, Aleksandr Aravkin  
 
+**All-cause inpatient care utilisation by age and sex in 204 countries and territories, 1990–2023: a systematic analysis for the Global Burden of Disease Study**  
+N. Nekliudov, E. Hamilton, M. Pašović, R. Ma, T. Prewitt, E. Gonzalez-Vega, S. Ewald, J. Hon, D. Pigott, M. Moberg, S. Lim, R. Lozano, T. Vos, R. Sorensen, A. Aravkin, A. Ducellier, K. Maass, P. Zheng, J. Haagsma, M. Giuffrida, S. Hay, T. A McHugh, R.W. Aldridge  
+
 # Preprints
 
 **Raking mortality rates across cause, population group and geography with variance estimation**  
