@@ -9,7 +9,19 @@ redirect_from:
 
 <!-- Leave two spaces at the end -->
 
-[Raking](https://github.com/ihmeuw-msca/raking): Python package to adjust the cases in a contingency table to match the known marginal totals, with uncertainty quantification. Also available on [PyPI](https://pypi.org/project/raking/).  
+# Public domain
+
+- [Raking](https://github.com/ihmeuw-msca/raking): Principal developer of the raking package. Also available on [PyPI](https://pypi.org/project/raking/).
+- [Crosswalk](https://github.com/ihmeuw-msca/crosswalk): Corrected bugs that appeared during office hours or help-desk tickets.
+
+# Internal codebase to IHME
+
+- Raking: Developed custom versions of the raking package for CodCorrect and the USHD team, respectively.
+- Onemod: Added new features, developed parameter tuning tools, wrote documentation for OneModCoD, and developed custom adaptations to the OneMod pipeline. 
+- CodCorrect: Developed visualization tools to compare results across codebases.
+- MSCA: Wrote RMarkdown files and Jupyter notebooks to show how to use MSCA tools including MR-BRT, crosswalk, regmod.
+
+# Projects developed during my PhD
 
 [Wavelet analysis](https://github.com/ArianeDucellier/wmtsa): Python tools to compute Discrete Wavelet Transform and other wavelet transforms. This repository contains scripts to carry out wavelet analyses as explained in:  
 
