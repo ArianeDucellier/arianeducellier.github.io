@@ -8,11 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am interested in statistical analysis and time series forecasting, and more broadly data science using complex data across space and time.
+I am a research scientist at the [Institute for Health Metrics and Evaluation (IHME)](https://www.healthdata.org/). I design and develop mathematical and statistical methods for population health statistical surveys.
 
-Currently, I am developing mathematical and statistical methods and codes for population health statistical surveys at the [Institute for Health Metrics and Evaluation (IHME)](https://www.healthdata.org/).
-
-Previously, I was working on forecasting housing market indicators at [Zillow](https://www.zillowgroup.com). 
+Previously, I was working on forecasting housing market indicators at [Zillow](https://www.zillowgroup.com).
 
 Before that, I worked on low-frequency seismic data and numerical inversion of earthquake models at [University of Washington](https://www.washington.edu) and the [French Geological Survey (BRGM)](https://www.brgm.fr/en).
 
