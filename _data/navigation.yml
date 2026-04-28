@@ -11,7 +11,10 @@ main:
     
   - title: "Software"
     url: /software.html
-        
+
+  - title: "Consulting"
+    url: /consulting.html
+
   - title: "Teaching samples"
     url: /visualization.html
     
