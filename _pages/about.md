@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a research scientist at the [Institute for Health Metrics and Evaluation (IHME)](https://www.healthdata.org/). I design and develop mathematical and statistical methods for population health statistical surveys.
+I am a postdoctoral researcher at the [Institute for Health Metrics and Evaluation (IHME)](https://www.healthdata.org/). I design and develop mathematical and statistical methods for population health statistical surveys.
 
 Previously, I was working on forecasting housing market indicators at [Zillow](https://www.zillowgroup.com).
 
