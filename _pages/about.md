@@ -16,6 +16,8 @@ Before that, I worked on low-frequency seismic data and numerical inversion of e
 
 ## News
 
+- May 2026: Our research paper "[Raking mortality rates across cause, population group and geography with variance estimation](https://arxiv.org/abs/2407.20520)", co-authored with Alexander Hsu, Parkes Kendrick, Bill Gustafson, Laura Dwyer-Lindgren, Christopher Murray, Peng Zheng, and Aleksandr Aravkin, has been accepted for publication in The Annals of Applied Statistics.
+
 - October 2025: I am a co-author of a [Global Burden of Disease](https://www.healthdata.org/research-analysis/gbd) study [paper](https://www.sciencedirect.com/science/article/pii/S3050503825000317) published in the The Lancet Obstetrics, Gynaecology, and Women's Health.
 
 - Fall 2025: I am teaching the course [Visualizing Data](https://github.com/ArianeDucellier/data_visualization_R) in the Department of Statistics at University of Washington.
