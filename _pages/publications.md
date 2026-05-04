@@ -21,7 +21,7 @@ N. Nekliudov, E. Hamilton, M. Pašović, R. Ma, T. Prewitt, E. Gonzalez-Vega, S.
 
 **Raking mortality rates across cause, population group and geography with variance estimation**  
 **Ariane Ducellier**, Alexander Hsu, Parkes Kendrick, Bill Gustafson, Laura Dwyer-Lindgren, Christopher Murray, Peng Zheng, Aleksandr Aravkin  
-*The Annals of Applied Statistics (major revisions)*. Presented at JSM 2024.  
+Accepted in *The Annals of Applied Statistics*.  
 [arXiv](https://arxiv.org/abs/2407.20520) &nbsp;  
 
 # Recent publications
